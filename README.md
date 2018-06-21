@@ -6,11 +6,11 @@ bitcoin donate : 3HiMhcv7VZWsCesZ34fZmUxTdgeqz
   
 >> 21th June, 2018  
   
-fixed zenad blockchain scammed by robin  
+We fixed zenad scammed blockchain.  
   
 >> 17th June, 2018  
   
-fixed ximant blockchain scammed by robin  
+Robin project fixed ximant scammed blockchain.  
   
 >> 16th June, 2018  
   
