@@ -6,7 +6,9 @@ bitcoin donate : 3HiMhcv7VZWsCesZ34fZmUxTdgeqz
   
 >> 21th June, 2018  
   
-We fixed zenad scammed blockchain.  
+We fixed zenad scammed blockchain. To reduce the block chain scamming rate, it is best to increase the number of "addnode=xxx.xxx.xxx.xxx" in '.conf' configuration file or increase the number of ximant, zenad nodes. Not all of the block chains are scammed with malicious intent.  
+If transaction confirmation is not complete due to insufficient number of nodes, or if the network is delayed and the blockchain synchronization is not performed well, the transaction ID with the already generated block may be branched into the scamming blockchain.  
+The node manager, the staking manager, and the core wallet user must shutdown coin deamon and reindex it with the fixed blockchain bootstrap when it becomes a scamming blockchain.
   
 >> 17th June, 2018  
   
