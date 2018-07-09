@@ -1,8 +1,8 @@
-Robin project announcement  
+# Robin project announcement  
   
 Robin project manages and develops cryptocurrency coins. For many community members, Robin project provides more quality applications and leads the blockchain culture soundly. All development is done as a donation, and when a certain donation is completed, we will gradually develop applications for coin holders. Thank you.  
   
-bitcoin donate : 3HiMhcv7VZWsCesZ34fZmUxTdgeqz  
+**BTC**: 3HiMhcv7VZWsCesZ34fZmUxTdgeqz  
   
 >> 27th June, 2018  
   
