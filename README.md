@@ -4,6 +4,10 @@ Robin project manages and develops cryptocurrency coins. For many community memb
   
 **BTC**: 3HiMhcv7VZWsCesZ34fZmUxTdgeqz  
   
+>> 14th July, 2018  
+  
+Robin project has updated alanis, blazarium, lunique, ximant, zenad blockchain bootstrap. Recently, blockchain scamming rate of proof-of-stake crytocurrency has been increasing. It seems to be due to increase of new ico coins. Masternode should be increased, and it is advisable to increase coin holdings for staking. And we recommend running on a stable network masternode and staking server. The worse the network, the higher the scamming rate. Thank you.  
+  
 >> 27th June, 2018  
   
 Our utum service has been terminated. Since the service is already being performed by the other party, the service is terminated in order to eliminate confusion  
