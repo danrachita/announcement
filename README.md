@@ -3,7 +3,11 @@
 Robin project manages and develops cryptocurrency coins. For many community members, Robin project provides more quality applications and leads the blockchain culture soundly. All development is done as a donation, and when a certain donation is completed, we will gradually develop applications for coin holders. Thank you.  
   
 **BTC**: 3HiMhcv7VZWsCesZ34fZmUxTdgeqz  
+**LTC**: LR7np4YNgC7M86cyQC7P93JizgSpRXvCXu  
   
+>> 1st Aug, 2018  
+Many companies have stopped official service due to excessive price drops. Since the official github service of alanis, zmining, wilo, ximant, genero is closed, Robin project shared data for community. Robin project will continue to study cryptocurrency platform,  mobile wallet, network gateway, IOT market. We hope many POS cryptocurrency will be used well.  
+
 >> 14th July, 2018  
   
 Robin project has updated alanis, blazarium, lunique, ximant, zenad blockchain bootstrap. Recently, blockchain scamming rate of proof-of-stake crytocurrency has been increasing. It seems to be due to increase of new ico coins. Masternode should be increased, and it is advisable to increase coin holdings for staking. And we recommend running on a stable network masternode and staking server. The worse the network, the higher the scamming rate. Thank you.  
