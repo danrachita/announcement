@@ -9,11 +9,11 @@ Robin project manages and develops cryptocurrency coins. For many community memb
   
 Many companies have stopped official service due to excessive price drops. Since the official github service of alanis, zmining, wilo, ximant, genero is closed, Robin project shared the data for community. Robin project will continue to study cryptocurrency platform,  mobile wallet, network gateway, IOT market. We hope many POS cryptocurrencies will be used well.  
   
-alanis official github is closed : https://github.com/AlanisDev/Alanis  
-zmining official github is closed : https://github.com/zminingdev/zmg  
-wilo official github is closed : https://github.com/WiloTeam/Wilo  
-ximant official github is closed : https://github.com/ximant/Ximant  
-genero official github is closed : https://github.com/GeneroPro/Genero  
+alanis official github is closed : https://github.com/AlanisDev/Alanis [`new link`](https://github.com/robinadaptor/alanis)  
+zmining official github is closed : https://github.com/zminingdev/zmg [`new link`](https://github.com/robinadaptor/zmining)    
+wilo official github is closed : https://github.com/WiloTeam/Wilo [`new link`](https://github.com/robinadaptor/wilo)    
+ximant official github is closed : https://github.com/ximant/Ximant [`new link`](https://github.com/robinadaptor/ximant)    
+genero official github is closed : https://github.com/GeneroPro/Genero [`new link`](https://github.com/robinadaptor/genero)    
   
 >> 14th July, 2018  
   
@@ -35,7 +35,7 @@ Robin project fixed ximant scammed blockchain.
   
 blazarium, utum are currently no official github, no website, no explorer site. And also no discord, twitter, or telegram community. Robin project will manage only on github. The current exchange is only traded on Graviex.net. At first they are exist. But they closed their services in own office. However, there are many nodes and staking operators. And there are still coin holders. For them, Robin project will continue to serve on github.  
     
-blazarium official github is closed : https://github.com/blazarium/blazarium  
+blazarium official github is closed : https://github.com/blazarium/blazarium [`new link`](https://github.com/robinadaptor/blazarium)    
 utum official github is closed : https://github.com/UtumDev/Utum  
 
 It can also be scrambled using the source or binary file of the wrong URL address. 
