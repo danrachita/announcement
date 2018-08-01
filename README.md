@@ -7,8 +7,14 @@ Robin project manages and develops cryptocurrency coins. For many community memb
   
 >> 1st Aug, 2018  
   
-Many companies have stopped official service due to excessive price drops. Since the official github service of alanis, zmining, wilo, ximant, genero is closed, Robin project shared data for community. Robin project will continue to study cryptocurrency platform,  mobile wallet, network gateway, IOT market. We hope many POS cryptocurrency will be used well.  
-
+Many companies have stopped official service due to excessive price drops. Since the official github service of alanis, zmining, wilo, ximant, genero is closed, Robin project shared the data for community. Robin project will continue to study cryptocurrency platform,  mobile wallet, network gateway, IOT market. We hope many POS cryptocurrencies will be used well.  
+  
+alanis official github is closed : https://github.com/AlanisDev/Alanis  
+zmining official github is closed : https://github.com/zminingdev/zmg  
+wilo official github is closed : https://github.com/WiloTeam/Wilo  
+ximant official github is closed : https://github.com/ximant/Ximant  
+genero official github is closed : https://github.com/GeneroPro/Genero  
+  
 >> 14th July, 2018  
   
 Robin project has updated alanis, blazarium, lunique, ximant, zenad blockchain bootstrap. Recently, blockchain scamming rate of proof-of-stake crytocurrency has been increasing. It seems to be due to increase of new ico coins. Masternode should be increased, and it is advisable to increase coin holdings for staking. And we recommend running on a stable network masternode and staking server. The worse the network, the higher the scamming rate. Thank you.  
