@@ -6,6 +6,7 @@ Robin project manages and develops cryptocurrency coins. For many community memb
 **LTC**: LR7np4YNgC7M86cyQC7P93JizgSpRXvCXu  
   
 >> 1st Aug, 2018  
+  
 Many companies have stopped official service due to excessive price drops. Since the official github service of alanis, zmining, wilo, ximant, genero is closed, Robin project shared data for community. Robin project will continue to study cryptocurrency platform,  mobile wallet, network gateway, IOT market. We hope many POS cryptocurrency will be used well.  
 
 >> 14th July, 2018  
