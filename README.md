@@ -7,7 +7,7 @@ Robin project manages and develops cryptocurrency coins. For many community memb
  
 ### 20th Aug, 2018  
   
-Official sites of many crytocurrency were closed. We will soon be sharing information, analyzed through git. It seems like most of the operating expenses have been exceeded. These crytocurrencies will be growed on by their holder. Robin project opened discord account. Robin project is very busy and may not be able to get involved often. We hope that it will be used as a good space for community people.  
+Official sites of many crytocurrency were closed. We will soon be sharing information, analyzed through git. It seems like most of the operating expenses have been exceeded. These crytocurrencies will be growed by their holder. Robin project opened discord account. Robin project is very busy and may not be able to get involved often. We hope that it will be used as a good space for community.  
   
 delor official github is closed : https://github.com/delorteam/delor   
 brig official github is closed : https://github.com/BrigTeam/Brig    
@@ -22,7 +22,7 @@ bitsolo official github is closed : https://github.com/bitsoloproject
   
 ### 1st Aug, 2018  
   
-Many companies have stopped official service due to excessive price drops. Since the official github service of alanis, zmining, wilo, ximant, genero is closed, Robin project shared the data for community. Robin project will continue to study cryptocurrency platform,  mobile wallet, network gateway, IOT market. We hope many POS cryptocurrencies will be used well.  
+Many company have stopped official service due to excessive price drops. Since the official github service of alanis, zmining, wilo, ximant, genero is closed, Robin project shared the data for community. Robin project will continue to study cryptocurrency platform,  mobile wallet, network gateway, IOT market. We hope many POS cryptocurrencies will be used well.  
   
 alanis official github is closed : https://github.com/AlanisDev/Alanis [`new link`](https://github.com/robinadaptor/alanis)  
 zmining official github is closed : https://github.com/zminingdev/zmg [`new link`](https://github.com/robinadaptor/zmining)    
