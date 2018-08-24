@@ -9,10 +9,10 @@ Robin project manages and develops cryptocurrency coins. For many community memb
   
 Official sites of many crytocurrency were closed. We will soon be sharing information, analyzed through git. It seems like most of the operating expenses have been exceeded. These crytocurrencies will be growed by their holder. Robin project opened discord account. Robin project is very busy and may not be able to get involved often. We hope that it will be used as a good space for community.  
   
-delor official github is closed : https://github.com/delorteam/delor   
-brig official github is closed : https://github.com/BrigTeam/Brig    
+delor official github is closed : https://github.com/delorteam/delor [`new link`](https://github.com/robinadaptor/delor)     
+brig official github is closed : https://github.com/BrigTeam/Brig [`new link`](https://github.com/robinadaptor/brig)   
 chronon official github is closed : https://github.com/ChrononGroup/Chronon    
-renish official github is closed : https://github.com/RenishGroup/Renish   
+renish official github is closed : https://github.com/RenishGroup/Renish [`new link`](https://github.com/robinadaptor/renish)   
 ketan official github is closed : https://github.com/KetanTeam/Ketan   
 vetani official github is closed : https://github.com/VetaniTeam/Vetani   
 lucin official github is closed : https://github.com/lucingroup/Lucin   
